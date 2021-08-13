@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Love calculation</string>
+    <string name="partner">Partner</string>
+    <string name="name">Name</string>
+    <string name="result">Result</string>
+    <string name="submit">Submit</string>
+    <string name="see_your_result_here">See your result here</string>
+</resources>
